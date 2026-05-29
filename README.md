@@ -33,15 +33,27 @@ O projeto tem como objetivo auxiliar usuários comuns a compreender práticas es
 
 ## Tela Inicial
 
-![Tela Inicial](screenshots/tela-inicial.png)
+![Tela Inicial](screenshots/01-Animacao-Abertura.jpeg)
 
 ## Menu Principal
 
-![Menu Principal](screenshots/menu-principal.png)
+![Menu Principal](screenshots/02-Menu-Principal.jpeg)
+
+## Golpes Mais Comuns
+
+![Golpes Mais Comuns](screenshots/03-Golpes-mais%20Comus.jpeg)
 
 ## Dicas de Segurança
 
-![Dicas](screenshots/dicas-seguranca.png)
+![Dicas de Segurança](screenshots/04-Dicas-De-Seguranca.jpeg)
+
+## Perguntas Frequentes
+
+![Perguntas Frequentes](screenshots/05-Perguntas-Frequentes.jpeg)
+
+## Quiz Educativo
+
+![Quiz Educativo](screenshots/06-Quiz-Educativo.jpeg)
 
 ---
 
